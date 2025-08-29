@@ -1,0 +1,11 @@
+These notebooks are intended for analysing all INT observation night logs on cuillin: /ceph/cephfs/SOLSYS
+N.B. that all night log information could be extracted directly from the fits headers instead. 
+
+int_observing_log.ipynb:
+Read and compile the run logs to see what was targetted. Creates the file df_INT_obs.csv
+
+query_observations.ipynb:
+Load df_INT_obs.csv and search for observations of a particular primary target
+
+int_skybot_search.ipynb:
+Load df_INT_obs.csv and search groups of telescope pointings for additional targets
