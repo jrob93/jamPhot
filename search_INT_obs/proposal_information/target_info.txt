@@ -1,0 +1,7 @@
+23 unique nights of data from March 2022 - March 2023
+39 unique targets (asteroids and comets)
+
+The data comes from a number of proposals by the Edinburgh Comets and Asteroids research group to characterise lightcurves of asteroids and inactive comet nuclei (WFC) and also to get spectroscopic observations of comets (IDS).
+
+Skybot results - 1764 known SSOs across the WFC observing blocks
+150 of these are asteroids with V < 20 (only 16 of these asteroids have a period in LCDB)
